@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SET UP
 
 ```
@@ -52,3 +53,6 @@ $ mkdir -p tmp/sockets  (socketファイルの置き場所を確保)
 $ docker-compose up -d --build 
 $ docker-compose run app rails db:create
 ```
+=======
+# climbclimb
+>>>>>>> origin/master
